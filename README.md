@@ -8,7 +8,7 @@
 
 ---
 
-<table width="100%">
+<table width="0%">
 <tr>
 <td width="55%" valign="top">
 
