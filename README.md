@@ -10,7 +10,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ### 🧑‍💻 About Me
 
@@ -22,22 +22,64 @@
 - 📍 Based in the Philippines
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" align="center" valign="middle">
 
-### 🚀 Featured Projects
-
-🧠 **IntelliQuiz** — Real-time quiz system with live scoring
-`React` `TypeScript` `Spring Boot` `Docker`
-
-⏱ **Pomodify** — Pomodoro productivity app with cloud deployment
-`Angular` `Spring Boot` `PostgreSQL` `AWS`
-
-🏦 **StackOvercash** — Secure banking system with auth & transactions
-`PHP` `JavaScript` `AWS`
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
 
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td align="center" width="31%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60"/>
+
+### 🧠 IntelliQuiz
+Real-time quiz system with live scoring and interactive UI
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+<td align="center" width="31%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60"/>
+
+### ⏱ Pomodify
+Full-stack Pomodoro productivity app with cloud deployment
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+</td>
+<td align="center" width="31%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60"/>
+
+### 🏦 StackOvercash
+Secure banking system with authentication and transaction modules
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -49,12 +91,16 @@
 <tr>
 <td align="center" width="25%">
 
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60"/>
+
 **⚙️ DevOps**
 
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,linux,git,github)](https://skillicons.dev)
 
 </td>
 <td align="center" width="25%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60"/>
 
 **🧠 Backend**
 
@@ -63,12 +109,16 @@
 </td>
 <td align="center" width="25%">
 
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"/>
+
 **🎨 Frontend**
 
 [![My Skills](https://skillicons.dev/icons?i=react,angular,ts,tailwind)](https://skillicons.dev)
 
 </td>
 <td align="center" width="25%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"/>
 
 **🗄️ Databases**
 
@@ -133,6 +183,10 @@
 <div align="center">
 
 ## 🌐 Connect With Me
+
+<img src="https://user-images.githubusercontent.com/74038190/212284126-944e5e8c-8b78-4681-9e87-7b1e1be77d84.gif" width="80"/>
+
+<br/>
 
 <a href="https://www.linkedin.com/in/gerald-kasan-mamasalanang-95a306386/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
