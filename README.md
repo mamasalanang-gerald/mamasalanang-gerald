@@ -40,9 +40,9 @@
 <tr>
 <td align="center" width="31%">
 
-<!-- Quiz: sweating guy picking answer under pressure -->
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="180"/>
-<br/><sub><i>me on the last question with 3 seconds left</i></sub>
+<!-- Drake meme energy: wrong answer vs correct answer -->
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="180"/>
+<br/><sub><i>the moment you pick the wrong answer at 99 points 💀</i></sub>
 
 ### 🧠 IntelliQuiz
 Real-time quiz system with live scoring and interactive UI
@@ -55,9 +55,9 @@ Real-time quiz system with live scoring and interactive UI
 </td>
 <td align="center" width="31%">
 
-<!-- Pomodoro: cat typing furiously, locked in, no breaks -->
+<!-- cat aggressively typing - hyperfocus pomodoro mode -->
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="180"/>
-<br/><sub><i>timer started. do not disturb.</i></sub>
+<br/><sub><i>25 min session started. family who? food what? 😤</i></sub>
 
 ### ⏱ Pomodify
 Full-stack Pomodoro productivity app with cloud deployment
@@ -70,9 +70,9 @@ Full-stack Pomodoro productivity app with cloud deployment
 </td>
 <td align="center" width="31%">
 
-<!-- Banking: hacker in hoodie securing the vault -->
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="180"/>
-<br/><sub><i>your money is safe. trust the auth.</i></sub>
+<!-- spinning coins / money flying - banking system -->
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9318-d16d04f75df4.png" width="180"/>
+<br/><sub><i>your balance after enabling 2FA: still broke but secure 🔐</i></sub>
 
 ### 🏦 StackOvercash
 Secure banking system with authentication and transaction modules
