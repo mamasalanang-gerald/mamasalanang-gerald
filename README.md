@@ -1,7 +1,5 @@
 <div align="center">
 
-# ⚡ Gerald Mamasalanang
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Backend+Developer;Cloud+Automation+Enthusiast;Docker+%7C+AWS+%7C+CI%2FCD;Building+Scalable+Solutions" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gerald%20Mamasalanang&fontSize=42&fontColor=00F7FF&animation=twinkling&fontAlignY=32&desc=DevOps%20%7C%20Backend%20%7C%20Cloud&descAlignY=54&descColor=ffffff" width="100%"/>
