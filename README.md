@@ -8,9 +8,9 @@
 
 ---
 
-<table width="100%">
+<table width="100%" style="border: none; border-collapse: collapse;">
 <tr>
-<td width="55%" valign="top">
+<td width="55%" valign="top" >
 
 ### 🧑‍💻 About Me
 
@@ -22,7 +22,7 @@
 - 📍 Based in the Philippines
 
 </td>
-<td width="45%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle" align="center" valign="middle" style="border: none;">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
 
