@@ -8,109 +8,71 @@
 
 ---
 
-<div align="center">
-
-## 🧑‍💻 About Me
-
-> 🚀 **DevOps & Backend Developer** passionate about **Cloud Infrastructure, Automation, and Scalable Systems**
-
-| 🔧 Specialty | ☁️ Cloud | 🎓 Education |
-|:---:|:---:|:---:|
-| Docker & CI/CD Pipelines | AWS Architecture | Diploma in IT – PUP Taguig |
-
-</div>
-
----
-
-<div align="center">
-
-## ⚙️ DevOps Stack
-
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-
-</div>
-
----
-
-<div align="center">
-
-## 🧠 Backend Technologies
-
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
-[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
-[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
-[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎨 Frontend
-
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
-
-</div>
-
----
-
-<div align="center">
-
-## 🗄️ Databases
-
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="320">
+<td width="50%" valign="top">
 
-### 🧠 IntelliQuiz
-**Real-time quiz system with live scoring and interactive UI**
+### 🧑‍💻 About Me
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+🚀 **DevOps & Backend Developer** passionate about **Cloud Infrastructure, Automation, and Scalable Systems**
+
+- ⚙️ Docker, AWS, CI/CD Pipelines
+- 🧠 Spring Boot, Laravel, REST APIs
+- 🎓 Diploma in IT – PUP Taguig
+- 📍 Based in the Philippines
 
 </td>
-<td align="center" width="320">
+<td width="50%" valign="top">
 
-### ⏱ Pomodify
-**Full-stack Pomodoro productivity app with cloud deployment**
+### 🚀 Featured Projects
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+🧠 **IntelliQuiz** — Real-time quiz system with live scoring
+`React` `TypeScript` `Spring Boot` `Docker`
+
+⏱ **Pomodify** — Pomodoro productivity app with cloud deployment
+`Angular` `Spring Boot` `PostgreSQL` `AWS`
+
+🏦 **StackOvercash** — Secure banking system with auth & transactions
+`PHP` `JavaScript` `AWS`
 
 </td>
 </tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<table>
 <tr>
-<td align="center" colspan="2">
+<td align="center" width="25%">
 
-### 🏦 StackOvercash
-**Secure banking system with authentication and transaction modules**
+**⚙️ DevOps**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,linux,git,github)](https://skillicons.dev)
+
+</td>
+<td align="center" width="25%">
+
+**🧠 Backend**
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel)](https://skillicons.dev)
+
+</td>
+<td align="center" width="25%">
+
+**🎨 Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=react,angular,ts,tailwind)](https://skillicons.dev)
+
+</td>
+<td align="center" width="25%">
+
+**🗄️ Databases**
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
 
 </td>
 </tr>
@@ -124,14 +86,21 @@
 
 ## 📊 GitHub Analytics
 
-<br/>
-
-<img height="180em" src="https://github-readme-stats-eight-iota-93.vercel.app/api?username=mamasalanang-gerald&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats-eight-iota-93.vercel.app/api/top-langs/?username=mamasalanang-gerald&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" />
-
-<br/><br/>
-
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats-eight-iota-93.vercel.app/api?username=mamasalanang-gerald&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" />
+</td>
+<td>
+<img src="https://github-readme-stats-eight-iota-93.vercel.app/api/top-langs/?username=mamasalanang-gerald&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 <img src="https://streak-stats.demolab.com?user=mamasalanang-gerald&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=888888" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -157,8 +126,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mamasalanang-gerald/mamasalanang-gerald/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-> 💡 **To enable the snake animation**, add a GitHub Actions workflow that generates the SVG to your profile repo's `output` branch. [See guide →](https://github.com/Platane/snk)
-
 </div>
 
 ---
@@ -166,8 +133,6 @@
 <div align="center">
 
 ## 🌐 Connect With Me
-
-<br/>
 
 <a href="https://www.linkedin.com/in/gerald-kasan-mamasalanang-95a306386/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
