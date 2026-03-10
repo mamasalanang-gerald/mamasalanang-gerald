@@ -2,9 +2,9 @@
 
 # ⚡ Gerald Mamasalanang
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Backend+Developer;Cloud+Automation+Enthusiast;Docker+%7C+AWS+%7C+CI%2FCD;Building+Scalable+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Backend+Developer;Cloud+Automation+Enthusiast;Docker+%7C+AWS+%7C+CI%2FCD;Building+Scalable+Solutions" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gerald%20Mamasalanang&fontSize=42&fontColor=00F7FF&animation=twinkling&fontAlignY=32&desc=DevOps%20%7C%20Backend%20%7C%20Cloud&descAlignY=54&descColor=ffffff" width="100%"/>
 
 </div>
 
@@ -14,14 +14,11 @@
 
 ## 🧑‍💻 About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+> 🚀 **DevOps & Backend Developer** passionate about **Cloud Infrastructure, Automation, and Scalable Systems**
 
-🚀 **DevOps & Backend Developer**  
-⚙️ Passionate about **Cloud Infrastructure, Automation, and Scalable Systems**  
-📦 Experienced in **Docker, AWS, CI/CD pipelines**  
-🎓 **Diploma in Information Technology** – PUP Taguig  
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+| 🔧 Specialty | ☁️ Cloud | 🎓 Education |
+|:---:|:---:|:---:|
+| Docker & CI/CD Pipelines | AWS Architecture | Diploma in IT – PUP Taguig |
 
 </div>
 
@@ -31,15 +28,11 @@
 
 ## ⚙️ DevOps Stack
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker" width="50" height="50" style="margin: 10px;">
-<img src="https://skillicons.dev/icons?i=aws" width="50" height="50" style="margin: 10px;">
-<img src="https://skillicons.dev/icons?i=linux" width="50" height="50" style="margin: 10px;">
-<img src="https://skillicons.dev/icons?i=github" width="50" height="50" style="margin: 10px;">
-<img src="https://skillicons.dev/icons?i=git" width="50" height="50" style="margin: 10px;">
-</p>
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 
 </div>
 
@@ -49,14 +42,10 @@
 
 ## 🧠 Backend Technologies
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-
-<p>
-<img src="https://skillicons.dev/icons?i=java" width="50" height="50" style="margin: 10px;">
-<img src="https://skillicons.dev/icons?i=spring" width="50" height="50" style="margin: 10px;">
-<img src="https://skillicons.dev/icons?i=php" width="50" height="50" style="margin: 10px;">
-<img src="https://skillicons.dev/icons?i=laravel" width="50" height="50" style="margin: 10px;">
-</p>
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
 
 </div>
 
@@ -66,14 +55,10 @@
 
 ## 🎨 Frontend
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-
-<p>
-<img src="https://skillicons.dev/icons?i=react" width="50" height="50" style="margin: 10px;">
-<img src="https://skillicons.dev/icons?i=angular" width="50" height="50" style="margin: 10px;">
-<img src="https://skillicons.dev/icons?i=ts" width="50" height="50" style="margin: 10px;">
-<img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" style="margin: 10px;">
-</p>
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 
 </div>
 
@@ -81,14 +66,10 @@
 
 <div align="center">
 
-## 🗄 Databases
+## 🗄️ Databases
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" style="margin: 10px;">
-<img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" style="margin: 10px;">
-</p>
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 
 </div>
 
@@ -98,26 +79,28 @@
 
 ## 🚀 Featured Projects
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
 <table>
 <tr>
-<td align="center" width="300">
+<td align="center" width="320">
 
 ### 🧠 IntelliQuiz
-**Real-time quiz system with live scoring and interactive UI**  
-`React` • `TypeScript` • `Spring Boot` • `Docker`
+**Real-time quiz system with live scoring and interactive UI**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
-<td align="center" width="300">
+<td align="center" width="320">
 
 ### ⏱ Pomodify
-**Full-stack Pomodoro productivity app with cloud deployment**  
-`Angular` • `Spring Boot` • `PostgreSQL` • `AWS`
+**Full-stack Pomodoro productivity app with cloud deployment**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-b97c-3b5637362c46.gif" width="200">
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 </td>
 </tr>
@@ -125,10 +108,11 @@
 <td align="center" colspan="2">
 
 ### 🏦 StackOvercash
-**Secure banking system with authentication and transaction modules**  
-`PHP` • `JavaScript` • `AWS`
+**Secure banking system with authentication and transaction modules**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="200">
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 </td>
 </tr>
@@ -142,22 +126,14 @@
 
 ## 📊 GitHub Analytics
 
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100">
+<br/>
 
-<br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mamasalanang-gerald&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&ring_color=00F7FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamasalanang-gerald&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamasalanang-gerald&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamasalanang-gerald&layout=compact&theme=dark&hide_border=true" />
-</p>
+<br/><br/>
 
-<br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamasalanang-gerald&theme=dark&hide_border=true" />
-</p>
-
-<br>
+<img src="https://streak-stats.demolab.com?user=mamasalanang-gerald&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=888888" />
 
 </div>
 
@@ -165,15 +141,9 @@
 
 <div align="center">
 
-## � Contribution Graph
-
-<img src="https://user-images.githubusercontent.com/74038190/212284107-fc9e2431-0cbe-4692-a78c-05f0a4d5f5c9.gif" width="100">
-
-<br>
+## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mamasalanang-gerald&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&area_color=00F7FF" width="100%"/>
-
-<br>
 
 </div>
 
@@ -183,17 +153,13 @@
 
 ## 🐍 Contribution Snake
 
-<img src="https://user-images.githubusercontent.com/74038190/212284111-0b737b34-7d3d-4c7a-bf8c-53a2a1ca8e0e.gif" width="100">
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mamasalanang-gerald/mamasalanang-gerald/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mamasalanang-gerald/mamasalanang-gerald/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mamasalanang-gerald/mamasalanang-gerald/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mamasalanang-gerald/mamasalanang-gerald/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<br>
+> 💡 **To enable the snake animation**, add a GitHub Actions workflow that generates the SVG to your profile repo's `output` branch. [See guide →](https://github.com/Platane/snk)
 
 </div>
 
@@ -203,25 +169,18 @@
 
 ## 🌐 Connect With Me
 
-<img src="https://user-images.githubusercontent.com/74038190/212284126-944e5e8c-8b78-4681-9e87-7b1e1be77d84.gif" width="100">
-
-<br>
+<br/>
 
 <a href="https://www.linkedin.com/in/gerald-kasan-mamasalanang-95a306386/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;
 <a href="mailto:geraldkasan163@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<br>
-
-### 💫 Thanks for visiting! Let's build something amazing together! 💫
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's+build+something+amazing!&fontSize=24&fontColor=00F7FF&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
