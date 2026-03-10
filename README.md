@@ -41,7 +41,6 @@
 <td align="center" width="31%">
 
 <img src="https://raw.githubusercontent.com/mamasalanang-gerald/mamasalanang-gerald/main/assets/Intelliquiz.gif" width="180"/>
-<br/><sub><i>the moment you pick the wrong answer at 99 points 💀</i></sub>
 
 ### 🧠 IntelliQuiz
 Real-time quiz system with live scoring and interactive UI
@@ -55,7 +54,6 @@ Real-time quiz system with live scoring and interactive UI
 <td align="center" width="31%">
 
 <img src="https://raw.githubusercontent.com/mamasalanang-gerald/mamasalanang-gerald/main/assets/pomodify.gif" width="180"/>
-<br/><sub><i>25 min session started. family who? food what? 😤</i></sub>
 
 ### ⏱ Pomodify
 Full-stack Pomodoro productivity app with cloud deployment
@@ -69,7 +67,6 @@ Full-stack Pomodoro productivity app with cloud deployment
 <td align="center" width="31%">
 
 <img src="https://raw.githubusercontent.com/mamasalanang-gerald/mamasalanang-gerald/main/assets/stackovercash.gif" width="180"/>
-<br/><sub><i>your balance after enabling 2FA: still broke but secure 🔐</i></sub>
 
 ### 🏦 StackOvercash
 Secure banking system with authentication and transaction modules
