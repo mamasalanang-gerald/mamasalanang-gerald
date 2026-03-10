@@ -40,8 +40,7 @@
 <tr>
 <td align="center" width="31%">
 
-<!-- Drake meme energy: wrong answer vs correct answer -->
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="180"/>
+<img src="https://raw.githubusercontent.com/mamasalanang-gerald/mamasalanang-gerald/main/assets/Intelliquiz.gif" width="180"/>
 <br/><sub><i>the moment you pick the wrong answer at 99 points 💀</i></sub>
 
 ### 🧠 IntelliQuiz
@@ -55,8 +54,7 @@ Real-time quiz system with live scoring and interactive UI
 </td>
 <td align="center" width="31%">
 
-<!-- cat aggressively typing - hyperfocus pomodoro mode -->
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="180"/>
+<img src="https://raw.githubusercontent.com/mamasalanang-gerald/mamasalanang-gerald/main/assets/pomodify.gif" width="180"/>
 <br/><sub><i>25 min session started. family who? food what? 😤</i></sub>
 
 ### ⏱ Pomodify
@@ -70,8 +68,7 @@ Full-stack Pomodoro productivity app with cloud deployment
 </td>
 <td align="center" width="31%">
 
-<!-- spinning coins / money flying - banking system -->
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9318-d16d04f75df4.png" width="180"/>
+<img src="https://raw.githubusercontent.com/mamasalanang-gerald/mamasalanang-gerald/main/assets/stackovercash.gif" width="180"/>
 <br/><sub><i>your balance after enabling 2FA: still broke but secure 🔐</i></sub>
 
 ### 🏦 StackOvercash
