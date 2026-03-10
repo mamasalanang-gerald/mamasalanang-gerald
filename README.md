@@ -144,10 +144,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100">
 
-<p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mamasalanang-gerald&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamasalanang-gerald&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
+<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mamasalanang-gerald&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamasalanang-gerald&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&border_radius=10"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mamasalanang-gerald&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&border_radius=10" />
 
 </div>
 
@@ -159,7 +163,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284107-fc9e2431-0cbe-4692-a78c-05f0a4d5f5c9.gif" width="100">
 
-[![Gerald's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mamasalanang-gerald&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/mamasalanang-gerald)
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mamasalanang-gerald&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&area_color=00F7FF" width="100%"/>
+
+<br>
 
 </div>
 
@@ -171,7 +179,15 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284111-0b737b34-7d3d-4c7a-bf8c-53a2a1ca8e0e.gif" width="100">
 
-![snake gif](https://github.com/mamasalanang-gerald/mamasalanang-gerald/blob/output/github-contribution-grid-snake.svg)
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mamasalanang-gerald/mamasalanang-gerald/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mamasalanang-gerald/mamasalanang-gerald/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mamasalanang-gerald/mamasalanang-gerald/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
 
 </div>
 
@@ -183,16 +199,20 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284126-944e5e8c-8b78-4681-9e87-7b1e1be77d84.gif" width="100">
 
-<p>
-<a href="https://www.linkedin.com/in/gerald-kasan-mamasalanang-95a306386/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square&logoWidth=20" height="40" style="margin: 10px;">
+<br>
+
+<a href="https://www.linkedin.com/in/gerald-kasan-mamasalanang-95a306386/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"/>
 </a>
-<a href="mailto:geraldkasan163@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&logoWidth=20" height="40" style="margin: 10px;">
+<a href="mailto:geraldkasan163@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo"/>
 </a>
-</p>
+
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<br>
 
 ### 💫 Thanks for visiting! Let's build something amazing together! 💫
 
