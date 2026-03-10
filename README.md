@@ -146,12 +146,18 @@
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mamasalanang-gerald&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamasalanang-gerald&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&border_radius=10"/>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mamasalanang-gerald&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&border_radius=10" alt="Gerald's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamasalanang-gerald&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&border_radius=10" alt="Gerald's Top Languages"/>
+</p>
 
-<br><br>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mamasalanang-gerald&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&border_radius=10" />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mamasalanang-gerald&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&border_radius=10" alt="Gerald's GitHub Streak"/>
+</p>
+
+<br>
 
 </div>
 
