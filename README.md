@@ -40,8 +40,9 @@
 <tr>
 <td align="center" width="31%">
 
-<!-- Guy frantically pressing buzzer - quiz show meme -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="180"/>
+<!-- Quiz: sweating guy picking answer under pressure -->
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="180"/>
+<br/><sub><i>me on the last question with 3 seconds left</i></sub>
 
 ### 🧠 IntelliQuiz
 Real-time quiz system with live scoring and interactive UI
@@ -54,8 +55,9 @@ Real-time quiz system with live scoring and interactive UI
 </td>
 <td align="center" width="31%">
 
-<!-- Productivity grind / focus meme -->
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180"/>
+<!-- Pomodoro: cat typing furiously, locked in, no breaks -->
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="180"/>
+<br/><sub><i>timer started. do not disturb.</i></sub>
 
 ### ⏱ Pomodify
 Full-stack Pomodoro productivity app with cloud deployment
@@ -68,8 +70,9 @@ Full-stack Pomodoro productivity app with cloud deployment
 </td>
 <td align="center" width="31%">
 
-<!-- Scrooge McDuck swimming in money / banking meme -->
-<img src="https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif" width="180"/>
+<!-- Banking: hacker in hoodie securing the vault -->
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="180"/>
+<br/><sub><i>your money is safe. trust the auth.</i></sub>
 
 ### 🏦 StackOvercash
 Secure banking system with authentication and transaction modules
