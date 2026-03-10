@@ -40,8 +40,8 @@
 <tr>
 <td align="center" width="31%">
 
-<!-- "Are you smarter than a 5th grader" / quiz show energy -->
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="180"/>
+<!-- Guy frantically pressing buzzer - quiz show meme -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="180"/>
 
 ### 🧠 IntelliQuiz
 Real-time quiz system with live scoring and interactive UI
@@ -139,21 +139,7 @@ Secure banking system with authentication and transaction modules
 
 ## 📊 GitHub Analytics
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats-eight-iota-93.vercel.app/api?username=mamasalanang-gerald&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" />
-</td>
-<td>
-<img src="https://github-readme-stats-eight-iota-93.vercel.app/api/top-langs/?username=mamasalanang-gerald&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
 <img src="https://streak-stats.demolab.com?user=mamasalanang-gerald&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=888888" />
-</td>
-</tr>
-</table>
 
 </div>
 
