@@ -1,14 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=FF6600&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%F0%9F%94%A5;Backend+Developer+%F0%9F%94%A5;Cloud+Automation+Enthusiast+%F0%9F%94%A5;Docker+%7C+AWS+%7C+CI%2FCD+%F0%9F%94%A5;Building+Scalable+Solutions+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Backend+Developer;Cloud+Automation+Enthusiast;Docker+%7C+AWS+%7C+CI%2FCD;Building+Scalable+Solutions" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,25:ff6600,50:ff9900,75:ffcc00,100:00f7ff&height=200&section=header&text=Gerald%20Mamasalanang&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Backend%20%7C%20Cloud&descAlignY=58&descColor=ffffff&stroke=ff6600&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gerald%20Mamasalanang&fontSize=42&fontColor=00F7FF&animation=twinkling&fontAlignY=32&desc=DevOps%20%7C%20Backend%20%7C%20Cloud&descAlignY=54&descColor=ffffff" width="100%"/>
 
 </div>
 
