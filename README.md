@@ -40,7 +40,8 @@
 <tr>
 <td align="center" width="31%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60"/>
+<!-- "Are you smarter than a 5th grader" / quiz show energy -->
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="180"/>
 
 ### 🧠 IntelliQuiz
 Real-time quiz system with live scoring and interactive UI
@@ -53,7 +54,8 @@ Real-time quiz system with live scoring and interactive UI
 </td>
 <td align="center" width="31%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60"/>
+<!-- Productivity grind / focus meme -->
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180"/>
 
 ### ⏱ Pomodify
 Full-stack Pomodoro productivity app with cloud deployment
@@ -66,7 +68,8 @@ Full-stack Pomodoro productivity app with cloud deployment
 </td>
 <td align="center" width="31%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60"/>
+<!-- Scrooge McDuck swimming in money / banking meme -->
+<img src="https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif" width="180"/>
 
 ### 🏦 StackOvercash
 Secure banking system with authentication and transaction modules
