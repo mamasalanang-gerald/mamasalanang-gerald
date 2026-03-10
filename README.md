@@ -140,24 +140,9 @@
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## � GitHub Analytics
 
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100">
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamasalanang-gerald&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamasalanang-gerald&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mamasalanang-gerald&theme=radical&hide_border=true" />
-</p>
-
-<br>
 
 </div>
 
@@ -165,7 +150,7 @@
 
 <div align="center">
 
-## 📈 Contribution Graph
+## �📈 Contribution Graph
 
 <img src="https://user-images.githubusercontent.com/74038190/212284107-fc9e2431-0cbe-4692-a78c-05f0a4d5f5c9.gif" width="100">
 
