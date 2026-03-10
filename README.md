@@ -128,8 +128,8 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mamasalanang-gerald&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&ring_color=00F7FF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamasalanang-gerald&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-eight-iota-93.vercel.app/api?username=mamasalanang-gerald&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-eight-iota-93.vercel.app/api/top-langs/?username=mamasalanang-gerald&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" />
 
 <br/><br/>
 
